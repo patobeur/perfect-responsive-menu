@@ -43,7 +43,8 @@ body {
 		top: calc(-130vmax + 50%);
 		width: 260vmax;
 		height: 260vmax;
-		background: #107db5;
+		/* background: #107db5; */
+		background: #b5108c;
 		display: block;
 		z-index: -1;
 		transform: scale3d(0, 0, 0);
